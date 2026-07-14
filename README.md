@@ -1,3 +1,3 @@
 # testrepo
 This is for practice
-its help in projexct management
+its help in project management
